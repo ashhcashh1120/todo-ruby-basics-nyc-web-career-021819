@@ -6,11 +6,11 @@ def assign_variable(value)
   value = "Ashley"
 end
 
-def argue(phase)
-  phase = "What are you talking about"
+def argue(phrase)
+  phrase = "What are you talking about"
 end
 
-def greeting()
+def greeting(greeting,name)
 
 end
 
